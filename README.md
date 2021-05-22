@@ -1,5 +1,10 @@
 # Pygame_Platformer
-Beginner Tutorial in Pygame. Author: https://github.com/russs123
+Beginner Tutorial in Pygame. 
+
+
+
+# About the game
+Author: https://github.com/russs123
 
 
 
